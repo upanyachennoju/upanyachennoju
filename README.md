@@ -5,10 +5,10 @@ class AIStudent:
     def __init__(self):
         self.name         = "Upanya Chennoju"
         self.role         = "Computer Science Student"
-        self.currently    = ["Learning MLOps", "Building cool ML projects"]
+        self.currently    = ["Learning to build AI agents", "Building cool ML projects"]
         self.interested   = ["Deep Learning", "MLOps", "Generative AI"]
         self.tools        = ["Python", "Numpy", "Pandas", "Matplotlib", "Seaborn", "Git", "Scikit-Learn", "PyTorch", "FastAPI", "Docker", "AWS"]
-        self.ask_me_about = ["Machine Learning", "Deep Learning", "Model Deployment"]
+        self.ask_me_about = ["Machine Learning", "Deep Learning", "Model Deployment", "AI Agents"]
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing 🚀")
@@ -21,7 +21,7 @@ me.say_hi()
 
 ## Currently Learning
 
-- **Machine Learning** — diving deep every day
+- **Machine Learning and AI** — diving deep every day
 - Cloud-native ML deployment
 
 ---
