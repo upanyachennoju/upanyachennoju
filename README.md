@@ -35,9 +35,6 @@ me.say_hi()
   <a href="https://twitter.com/upanyax" target="_blank">
     <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/upanya." target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
 </p>
 
 ---
