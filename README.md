@@ -60,7 +60,7 @@ me.say_hi()
 
 <p align="center">
   <br/>
-    <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>  
+    <a href="https://git.io/streak-stats&theme=blueberry"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>  
   <br/>
 </p>
 
