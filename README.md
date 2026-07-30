@@ -6,12 +6,12 @@ class AIStudent:
         self.name         = "Upanya Chennoju"
         self.role         = "Computer Science Student"
         self.currently    = ["Learning to build AI agents", "Building cool ML projects"]
-        self.interested   = ["Deep Learning", "MLOps", "Generative AI"]
-        self.tools        = ["Python", "Numpy", "Pandas", "Matplotlib", "Seaborn", "Git", "Scikit-Learn", "PyTorch", "FastAPI", "Docker", "AWS"]
+        self.interested   = ["Deep Learning", "MLOps", "Generative AI", "Agentic AI"]
+        self.tools        = ["Python", "Numpy", "Pandas", "Matplotlib", "Seaborn", "Git", "Scikit-Learn", "PyTorch", "FastAPI", "Docker", "AWS", "Langchain", "Langgraph", "MLFlow"]
         self.ask_me_about = ["Machine Learning", "Deep Learning", "Model Deployment", "AI Agents"]
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing 🚀")
+        print("Thanks for dropping by! Let's build something amazing!!")
 
 me = AIStudent()
 me.say_hi()
@@ -21,9 +21,7 @@ me.say_hi()
 
 ## Currently Learning
 
-- **Machine Learning and AI** — diving deep every day
-- Cloud-native ML deployment
-
+- **LLMs & AI Agents** - building something useful
 ---
 
 ## Connect with Me
